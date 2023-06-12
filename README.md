@@ -177,9 +177,9 @@ print(le.inverse_transform(x_prediction))
 ```
 
 ## Dataset Information:
-![](./2.png)
+<img src="2.png" width="800" height="400" />
 ### After Converted into Numerical values:
-![](./3.png)
+<img src="3.png" width="800" height="400" />
 
 ## OUTPUT:
 
