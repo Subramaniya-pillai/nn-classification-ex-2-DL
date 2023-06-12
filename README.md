@@ -185,10 +185,9 @@ print(le.inverse_transform(x_prediction))
 
 ### Training Loss, Validation Loss Vs Iteration Plot:
 
-<img src="1.png" width="400" height="200" /> | <img src="1.png" width="400" height="200" />
+<img src="1.png" width="400" height="200" />  <img src="1.png" width="400" height="200" />
 
 ### Classification Report:
-
 ![](./7.png)
 
 ### Confusion Matrix:
