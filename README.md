@@ -185,8 +185,8 @@ print(le.inverse_transform(x_prediction))
 
 ### Training Loss, Validation Loss Vs Iteration Plot:
 
-![](./4.png)
-![](./5.png)
+<img src="1.png" width="400" height="300" />
+<img src="1.png" width="400" height="300" />
 
 ### Classification Report:
 
